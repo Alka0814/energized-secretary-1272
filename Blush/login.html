@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign In And Sign Up Form</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body background="https://thumbs.dreamstime.com/b/make-up-items-pink-color-background-horizontal-web-banner-set-luxury-decorative-cosmetics-flat-lay-top-view-mock-template-175051952.jpg">
+    <div class="container">
+        <div class="form-box">
+            <h1 id="tittle"> Sign Up</h1>
+            <form >
+                <div class="input-group">
+                    <div class="input-field" id="nameField"> 
+                        <i class="fa-solid fa-user"></i>
+                        <input type="text" placeholder="Name"></div>
+                        <div class="input-field">
+                            <i class="fa-solid fa-involope"></i>
+                            <input type="email" placeholder="Email"> </div>
+                            <div class="input-field">
+                         <i class="fa-solid fa-lock"></i>
+                         <input type="password" placeholder="Password"></div>
+                         <p>Forget password <a href="#">Click here</a> </p> </div>
+                         <div class="btn-field">
+                            <button type="button" id="signupBtn"> sign Up</button>
+                            <button type="button" id="signinBtn" class="disable">sign In</button>
+
+                         </div>
+            </form>
+
+        </div> 
+
+    </div>
+</body>
+<script>
+let signupBtn=document.getElementById("signupBtn");
+let SigninBtn=  document.getElementById("signinBtn");
+let namefield= document.getElementById("nameField"); 
+let tittle=document.getElementById("title");
+signinbtn.onclick=function () {
+    nameField.style.maxHieght = "0";
+    title.innerHtml="Sign In ";
+    SignupBtn.classList.add("disable");
+    SignBtn.classList.remove("disable");
+    };
+signupBtn.onclick=function(){
+    nameField.style.maxHieght="60px";
+    title.innerText="sign Up";
+    signupBtn.classList.remove("disable");
+    signinBtn.classList.add("disable");
+};    
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
