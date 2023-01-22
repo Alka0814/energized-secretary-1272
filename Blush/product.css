@@ -1,92 +1,65 @@
-body{
-    margin: 0px;
-    padding: 0px;
-}
-.top{
-    height: 50px;
-    width: auto;
-    display: flex;
-    justify-content: space-around;
-    background-color:#f9d3e8;
-}
-.top img{
-    height: 50px;
-    border-radius: 30px;
-    
-}
-.top button{
-    background-color: red;
-    color: white;
-    border: none;
-    border-radius: 20px;
-}
-.nav{
-    height: 150px;
-    width: auto;
-    margin: auto;
-    
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-}
-.search{
-    height: 70%;
+
+
+.navtop{
     width: 100%;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    margin-left: 100px;
-}
-
-.search-bar{
-   width: 100%;
-   max-width: 700px;
-  
-   display: flex;
-   align-items: center;
-    border-radius: 60px;
-    padding: 10px 20px;
-   
-}
-.search-bar input{
+    padding: 100px,100px,40px,100px ;
     
-    flex: 1;
-    border: 0px;
-    outline: none;
-    padding: 24px 20px;
-    font-size: 20px;
-    border-bottom: 2px solid #60f;
-
+    box-sizing: border-box;
 }
-.search-bar button img{
-    width: 30px;
-    
-} 
-.search-bar button{
-    border: 0;
-    background-color:white;
-    
+.navtop div>div img {
+    height: 45px;
+    width: 45px;
 }
-.image img{
-    height: 70px;
+#searchdiv{
+ margin-top: 30px;
+ margin-left: 20px;
+}
+.search{
+    border: none;
+    font-size: 15px;
+}
+.searchicon{
+    height:15px ;
+    width:15px ;
+}
+.logoimg{
+    height: 60px;
     width: 100px;
-   margin-right: 25px;
-   border-radius: 60px;
 }
-.cardcard{
-    width: 25%;
+.navtop hr{
+    color: blue;
+}
+.navtop div >div{
     display: flex;
-    justify-content: space-around;
-    margin-right: 180px;
-    /* /border: solid red/ */
 }
-.item{
-    height: 30%;
+.icn{
+    height: 30px;
+    width: 30px;
+    margin: 20px;
+    border: 2px solid black;
+}
+.icnbtn{
+    margin-top: 20px;
+    background-color: rgb(236, 166, 178);
+    border: none;
+    margin-bottom: 20px;
+}
+.navbottom{
     display: flex;
-    justify-content: space-around;
-    margin-left: 420px;
-    margin-right: 390px;
-   /* border: solid green 1px;*/
-    
+    width: 80%;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin-left: 150px;
+    font-weight: 900;
+    margin-top: none;
+    margin-bottom: 20px;
 }
+
+
+
+
 
 
 #rosehip{

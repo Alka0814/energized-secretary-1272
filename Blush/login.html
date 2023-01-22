@@ -35,38 +35,41 @@
     </div>
 </body>
 <script>
-let signupBtn=document.getElementById("signupBtn");
-let SigninBtn=  document.getElementById("signinBtn");
-let namefield= document.getElementById("nameField"); 
-let tittle=document.getElementById("title");
-signinbtn.onclick=function () {
-    nameField.style.maxHieght = "0";
-    title.innerHtml="Sign In ";
-    SignupBtn.classList.add("disable");
-    SignBtn.classList.remove("disable");
+    let signupBtn = document.getElementById("signupBtn");
+    let signinBtn = document.getElementById("signinBtn");
+    let nameField = document.getElementById("nameField");
+    let title = document.getElementById("title");
+    let formEl = document.querySelector("form");
+    let email = document.querySelector("#email");
+    let password = document.querySelector("#password");
+
+    signinBtn.onclick = function () {
+      nameField.style.maxHeight = "0";
+      title.innerHTML = "Sign In";
+      signupBtn.classList.add("disable");
+      signinBtn.classList.remove("disable");
     };
-signupBtn.onclick=function(){
-    nameField.style.maxHieght="60px";
-    title.innerText="sign Up";
-    signupBtn.classList.remove("disable");
-    signinBtn.classList.add("disable");
-};    
 
-</script>
+    signupBtn.onclick = function () {
+      nameField.style.maxHeight = "60px";
+      title.innerHTML = "Sign Up";
+      signupBtn.classList.remove("disable");
+      signinBtn.classList.add("disable");
+    };
 
+   
+    // let allUserData = JSON.parse(localStorage.getItem("users")) || [];
+    // signupBtn.addEventListener("submit",(e)=>{
+    //   e.preventDefault();
+    //   const formData = {
+    //   name : nameField.value,
+    //   email : email.value,
+    //   password : password.value,
+    // };
+    // allUserData.push(formData);
+    // localStorage.setItem("users", JSON.stringify(allUserData));
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    // window.location.href = "file:///C:/Users/Dell/OneDrive/Desktop/verdant-attack-1980/index.html"
+    // });
+  </script>
 </html>
