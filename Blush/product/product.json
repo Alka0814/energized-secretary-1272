@@ -1,0 +1,114 @@
+[
+    {
+      "id":1,
+      "img":"https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/270491/insight-cosmetics-pore-minimizer-primer-30ml_7_display_1674203745_c9692978.jpg",
+      "category":"Face Makeup",
+      "details": "Faces Canada Weightless Stay Matte Compact Ivory 01 9g", 
+      "price":125
+    },
+    {
+      "id":2,
+      "img":"https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/267828/ny-bae-eye-brightening-primer-15g_5_display_1673508510_b7dd0ba1.jpg",
+      "category":"Face Makeup",
+      "details": "Faces Canada Weightless Stay Matte Compact Ivory 01 9g", 
+      "price":191
+    },
+    {
+      "id":3,
+      "img":"https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/271961/ny-bae-matte-face-primer-for-oily-skin-13-gm_6_display_1674198444_9c865d58.jpg",
+      "category":"Face Makeup",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.", 
+      "price":100
+    },
+    {
+      "id":4,
+      "img":"https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/179797/faces-canada-ultime-pro-primerizer-primer-moisturizer-30-g_1_display_1657866844_8b301d99.jpg",
+      "category":"Face Makeup",
+      "details": "Faces Canada Weightless Stay Matte Compact Ivory 01 9g", 
+      "price":100
+    },
+    {
+      "id":5,
+      "img":"https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-@@mediafiles@mailers@banners@1659451450_new-tag.png,ow-115,ofo-top_right,dpr-2/static/img/product/259188/stay-quirky-cover-with-perfection-color-correcting-primer-orange-marmalade-20-ml_1_display_1643001802_f11fed71.jpg",
+      "category":"Face Makeup",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.", 
+      "price":100
+    },
+    {
+      "id":6,
+      "img":"https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/293973/cuffs-n-lashes-makeup-mixer-revive-and-mix-20-ml_1_display_1651795597_c66e0566.jpg",
+      "category":"Face Makeup",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.", 
+      "price":100
+    },
+    {
+      "id":7,
+      "img":"https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/175443/focallure-perfect-face-matte-primer-fa-53_1_display_1559045523_9068c5ce.jpg",
+      "category":"Face Makeup",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.", 
+      "price":100
+    },
+    {
+      "id":8,
+      "img":"https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-Best_seller_700x700base_gUMVzNGWt_.png,ofo-top_right,dpr-2/static/img/product/220344/purplle-true-jewel-24k-gold-primer-20-ml-52_1_display_1673004163_b24333a5.jpg",
+      "category":"Face Makeup",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.", 
+      "price":100
+    },
+    {
+      "id":9,
+      "img":"https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/272885/ny-bae-kohl-black-the-big-apple-of-my-eye-14_6_display_1670304403_3ff78910.jpg",
+      "category":"Eye Makeup",
+      "details": "NY Bae HD Spotless Liquid Concealer - Milk Chocolate Pretzel 2 (3 ml) | Wheatish Skin| Red | Almond Oil & Vitamin E | Long Lasting | Full Coverage", 
+      "price":421
+    },
+    {
+      "id":10,
+      "img":"https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-@@mediafiles@mailers@banners@1659451450_new-tag.png,ow-115,ofo-top_right,dpr-2/static/img/product/314143/faces-canada-magneteyes-kajal-duo-pack_1_display_1662716958_ae3d1ead.jpg",
+      "category":"Eye Makeup",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.", 
+      "price":238
+    },
+    {
+      "id":11,
+      "img":"https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-Best_seller_700x700base_gUMVzNGWt_.png,ofo-top_right,dpr-2/static/img/product/249634/blue-heaven-walk-free-mascara-water-proof-long-lash-black-pack-12-ml-pack-of-2-12_1_display_1623834980_fce1b96a.jpg",
+      "category":"Eye Makeup",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.", 
+      "price":758
+    },
+    {
+      "id":12,
+      "img":"https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/279971/stay-quirky-dual-kajal-pack-black-badass-1-0-25-g-x-2-1_1_display_1646027983_3ed57f09.jpg",
+      "category":"Eye Makeup",
+      "details": "NY Bae HD Spotless Liquid Concealer - Milk Chocolate Pretzel 2 (3 ml) | Wheatish Skin| Red | Almond Oil & Vitamin E | Long Lasting | Full Coverage", 
+      "price":650
+    },
+    {
+      "id":13,
+      "img":"https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-@@mediafiles@mailers@banners@1659451450_new-tag.png,ow-115,ofo-top_right,dpr-2/static/img/product/315345/faces-canada-comfy-matte-pro-lip-color-upto-10hrs-stay-no-alcohol-no-dryness-revival-maroon14-5-5-ml_1_display_1660812113_6b7e053f.jpg",
+      "category":"Lip Makeup",
+      "details": "Faces Canada COMFY MATTE PRO LIP COLOR | Upto 10hrs stay |No Alcohol, No Dryness | Revival maroon14 | 5.5 ml", 
+      "price":187
+    },
+    {
+      "id":14,
+      "img":"https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/276033/ny-bae-liquid-lipstick-holiday-collection-mugs-and-hugs-4-gm-10_5_display_1668488793_ee34821c.jpg",
+      "category":"Lip Makeup",
+      "details": "Purplle Ultra HD Matte Mini Liquid Lipstick, Red - My First Date 4 | Highly Pigmented | Non-drying | Long Lasting | Easy Application | Water Resistant | Transferproof | Smudgeproof (1.6 ml)", 
+      "price":163
+    },
+    {
+      "id":15,
+      "img":"https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/298196/kaja-heart-melter-lip-gloss-stick-01-too-hot-flirty-cherry-red-cruelty-free-vegan-paraben-free-sulfate-free-phthalates-free-k-beauty_8_display_1669291928_b3c3cedf.jpg",
+      "category":"Lip Makeup",
+      "details": "KAJA Heart Melter | Lip Gloss Stick | 01 Too Hot - Flirty cherry red | Cruelty-free, Vegan, Paraben-free, Sulfate-free, Phthalates-free, K-Beauty", 
+      "price":1043
+    },
+    {
+      "id":16,
+      "img":"https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/277607/purplle-mini-liquid-lipstick-red-my-first-date-4-4-8-ml-11-96_1_display_1663318843_0a5a6c08.jpg",
+      "category":"Lip Makeup",
+      "details": "Maybelline Superstay Vinyl Ink Liquid Lipstick, Lippy | High Shine That Lasts for 16 HRs | Enriched With Vitamin E & Aloe", 
+      "price":155
+    }
+  ]

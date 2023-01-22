@@ -37,51 +37,16 @@
     margin-top: none;
 }
 /* nav bar is done */
-
-/* css for full slider1 images */
-.container{
-    width: 20%;
-    margin: 10px 10px;
-}
-.card{
-    border: 2px solid black;
-    height: 400px;
-    position: relative;
-}
-.slider{
-    height: 100%;
-    display: flex;
-    width: 400%;
-    border: 1px solid red;
-}
-.slider section {
-    flex-basis: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.controls.arrow{
-    position: absolute;
-    top: 50%;
-    cursor: pointer;
-}
-.arrow.left{
-    left: 10px;
+/* slidefull */
+#fullslide1{
+   width: 100%;
 
 }
-.arrow.right{
-    right: 10px;
+#fullslide1 img{
+ width: 100%;
+margin-left: 30px;
+margin-right: 30px;
 }
-
-
-
-
-
-
-
-
-
-
 
 .grid {
     width: 100%;
