@@ -36,6 +36,51 @@
     font-weight: 900;
     margin-top: none;
 }
+/* nav bar is done */
+
+/* css for full slider1 images */
+.container{
+    width: 20%;
+    margin: 10px 10px;
+}
+.card{
+    border: 2px solid black;
+    height: 400px;
+    position: relative;
+}
+.slider{
+    height: 100%;
+    display: flex;
+    width: 400%;
+    border: 1px solid red;
+}
+.slider section {
+    flex-basis: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.controls.arrow{
+    position: absolute;
+    top: 50%;
+    cursor: pointer;
+}
+.arrow.left{
+    left: 10px;
+
+}
+.arrow.right{
+    right: 10px;
+}
+
+
+
+
+
+
+
+
+
 
 
 .grid {
@@ -53,3 +98,127 @@ margin: auto;
     height:300px;
     width: 590px;
 }
+
+
+
+
+
+
+
+/* css buttom */
+#box16{
+  background-color: rgb(245, 212, 218);
+  box-sizing: border-box;
+  height: 150px;
+  text-align: center; 
+  font-size: 35px; 
+}
+#box17{
+    padding: auto;
+    box-sizing: border-box;
+    margin-top:25px ;
+    margin-bottom: 30px;
+}
+.img17{
+    margin-left: 30px;
+}
+#box18{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    box-sizing: border-box;
+    padding: 20px 80px 20px 80px;
+    border: 1px solid rgb(207, 204, 204);
+    margin-top: 15px;
+}
+#box18 div{
+    width: 100%;
+}
+#box18 h3{
+    text-align: center;
+    color: rgb(51, 48, 48);
+   font-size:20px ;
+}
+#box18 p{
+    text-align: center;
+    color: rgb(94, 91, 91);
+}
+.img18{
+    margin-left: 130px;
+}
+#box19{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    box-sizing: border-box;
+    padding: 20px 50px 20px 50px;
+    background-color: aliceblue;
+}
+#box19  h2{
+    color: rgb(58, 53, 53);
+    font-size: 30px;
+    font-weight: 400;
+}
+#box19 p{
+    color: white;
+}
+.divbox19{
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+    width: 400px;
+    background-color: pink;
+}
+#box20{
+    background-color: aliceblue;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#box20 p{
+    color: rgb(146, 139, 139);
+    margin-left: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    
+}
+#box21{
+margin-left: 90px;
+margin-bottom: 40px;
+margin-top: 40px;
+
+
+}
+#footer{
+width: 1250px;
+text-align: left;
+color: rgb(88, 83, 83);
+font-size: 14px;
+}
+#box21{
+    
+    display: flex;
+    justify-content: space-around;
+}
+#box21 p{
+    color: rgb(88, 82, 82);
+    margin-top: 10px;
+    font-weight: 800;
+}
+.icon21{
+ display: flex;
+}
+.img21{
+    height: 25px;
+    width: 25px;
+    padding: 4px;
+}
+
+
+
+
+
+
+
+
+
